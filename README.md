@@ -1,8 +1,8 @@
 
-Predições de vendas das lojas ROSSMANN
-
+<b>Predições de vendas das lojas ROSSMANN</b>
 
 ÍNDICE:
+
 1.Contexto 
 2.Desafio
 3.Desenvolvimento da Solução
@@ -35,14 +35,7 @@ Predições de vendas das lojas ROSSMANN
 
 4.Conclusão & Demonstração 
 
-
-
-
-
-
 5.Próximos Passos
-
-
 
 
 
