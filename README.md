@@ -36,8 +36,9 @@
 4.Conclusão & Demonstração 
 
 5.Próximos Passos
-
-
+-Workshop do Modelo para os Business Users
+-Coletar Feedbacks sobre a usabilidade 
+- umentar em 10% a Acurácia do Modelo 
 
 Este projeto destina-se apenas para à pratica e estudos.  
 Dados: [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/data)
