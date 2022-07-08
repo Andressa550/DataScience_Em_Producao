@@ -41,4 +41,4 @@
 
 Este projeto destina-se apenas para à pratica e estudos.  
 Dados: [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/data)
-Crédito: [Comunidade DataScience] (https://www.comunidadedatascience.com/)
+Crédito: [Comunidade DataScience](https://www.comunidadedatascience.com/)
