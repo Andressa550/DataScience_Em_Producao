@@ -12,14 +12,13 @@
 
 1.Contexto
 
-- Reunião Mensal de Resultados
-- O CF0 pediu uma Previsão de Vendas das Proximas 6 semanas
+Rossmann é uma empresa farmacêutica com mais de 1115 mil lojas espalhadas por toda a Europa. Todo final do mes existe uma reunião com todos os gerentes dessa loja para explicar os resultados. Na ultima reunião do ultimo mes o CFO pediu para todos os gerentes de lojas fizessem uma predição das próximas 6 semanas de venda de cada uma de suas lojas. 
 
 2.Desafio
 
 2.1 Problema
 
-- Definição do Budget para a Reforma das Lojas
+O CFO está com dificuldade de definir o Budget para a Reforma das Lojas
 
 2.2 Causas
 
